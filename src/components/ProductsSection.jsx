@@ -40,7 +40,7 @@ const PRODUCTS = [
   },
   {
     id: 4,
-    name: "Designer Saree Pin",
+    name: "Designer Pen",
     price: "₹499",
     originalPrice: "₹699",
     image: sareePin,
